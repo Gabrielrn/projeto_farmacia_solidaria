@@ -1,0 +1,63 @@
+.titulo-equipe {
+  font-family: 'Quicksand' !important;
+  font-weight: 700 !important;
+  font-size: 54px !important;
+  color: #4d3efc !important
+}
+
+.txt-equipe {
+  display: flex !important;
+  justify-content: center !important;
+  text-align: justify !important;
+  align-items: center !important;
+  font-family: 'Quicksand' !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  margin-top: 18px !important;
+  margin-bottom: 48px !important;
+  margin-left: 120px !important;
+  margin-right: 120px !important;
+}
+
+.margin-titulo-equipe {
+  margin-top: 40px !important;
+}
+
+/* fotos */
+.tamanho-avatar {
+  width: 180px !important;
+  height: 180px !important;
+  border-style: double;
+  border-width: 6px;
+  border-color: #4d3efc;
+}
+
+.nome-integrante {
+  text-align: center !important;
+  margin-bottom: 24px !important;
+  font-family: 'Quicksand' !important;
+  font-weight: 700 !important;
+  font-size: 28px !important
+}
+
+.margin-equipe {
+  margin: 0 auto !important;
+  justify-content: center !important;
+  display: flex !important;
+}
+
+.margin-foto { 
+  margin-bottom: 60px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.posicionamento-icon {
+  padding-top: 24px !important;
+}
+
+.posicionamento-icon-linkedin {
+  margin-left: 20px !important;
+  padding-top: 24px !important;
+}

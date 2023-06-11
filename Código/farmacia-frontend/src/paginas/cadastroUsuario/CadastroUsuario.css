@@ -1,0 +1,65 @@
+.fundo{
+    background-image: url("/src/assets/rainbow-vortex_1.png");
+    width: 100vw;
+    background-size: cover;
+    min-height:100vh ;
+}
+
+.fundoForm{
+    background-color: rgb(29, 10, 51);
+
+    padding: 4rem;
+    margin: 4rem 2rem;
+    border-radius: 16px;
+}
+
+.icon-color {
+    color: #30d1bc !important;
+}
+
+#usuario, #cpf, #endereco, #senha, #confirmarSenha {
+    color: white !important;
+}
+
+#nome_cadastro {
+    color: white !important;
+    
+}
+
+#foto {
+    color: white !important;
+}
+
+.forms{
+    color: white !important;
+}
+
+.loginho{
+    background-image: url('/src/assets/logo.png') !important;
+}
+
+.textos2{
+    font-weight: bold !important;
+}
+
+.btnCadastrar {
+    font-family: 'Quicksand' !important;
+    font-weight: 700 !important;
+    background-color: #30d1bc !important;
+    color: black !important;
+}
+
+.btnCancelar {
+    font-family: 'Quicksand' !important;
+    font-weight: 700 !important;
+    background-color: red !important;
+    color: white !important;
+}
+
+.MuiInput-underline::before {
+    border-bottom: 1px solid #CCCCCC !important;
+}
+
+.MuiInputLabel-root {
+    color: #CCCCCC !important;
+}

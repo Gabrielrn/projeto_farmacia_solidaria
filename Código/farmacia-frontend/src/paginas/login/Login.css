@@ -1,0 +1,128 @@
+.logo {
+  margin-bottom: 12px !important;
+}
+
+.loguinho {
+  height: 160px;
+  width: 160px
+}
+
+.text-decorator-none {
+  text-decoration: none;
+}
+
+.textos {
+  text-decoration: none !important;
+}
+
+.sem-conta {
+  font-family: 'Quicksand' !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  color: white !important;
+  justify-content: center !important
+}
+
+.cadastrar {
+  font-family: 'Quicksand' !important;
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  color: white !important;
+  justify-content: center !important
+}
+
+.bold:hover {
+  text-decoration: underline;
+}
+
+.MuiInput-underline::before {
+  border-bottom: 1px solid white !important;
+}
+
+.cadeado {
+  justify-content: center !important;
+  align-items: center !important;
+  color: #30d1bc !important;
+}
+
+.perfil {
+  justify-content: center !important;
+  align-items: center !important;
+  color: #30d1bc !important;
+}
+
+#usuario {
+  color: white;
+}
+
+#senha {
+  color: white;
+}
+
+.txt-style {
+  color: white !important;
+  font-family: 'Quicksand' !important;
+  width: 280px !important;
+}
+
+.imagem-login {
+  background-image: url('/public/imagemdefundo.jpeg');
+  width: 100vw;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.btn-login {
+  background-color: #30d1bc !important;
+  color: #330461 !important;
+  padding: 4px 32px !important;
+  font-family: 'Quicksand' !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important
+}
+
+.text-decorator-none {
+  text-decoration: none;
+}
+
+.txt-style {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.box {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vidro {
+  background:#330461;
+  border-radius: 16px;
+  padding: 1rem; 
+  width: 60vh;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+::placeholder {
+  color: white !important; 
+  font-size: 16px
+}
+
+.form{
+  padding: 3rem;
+}
+
+.botao {
+  margin-top: 3vh;
+  text-align: center;
+  justify-content: center;
+} 

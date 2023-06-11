@@ -1,0 +1,10 @@
+.titulo{
+  font-weight: bold;
+}
+
+.cor-tabprodutos {
+  background-color: #D2FCF6 !important;
+  color: black !important;
+  padding-left: 20px !important;
+}
+
