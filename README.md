@@ -10,6 +10,7 @@
 <br>
 
 <h2 fontWeight="bold">🛠 Tecnologias</h2>
+<br>
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - <img align="center" alt="Java" height="30" width="40" src="https://user-images.githubusercontent.com/79949781/183263012-f25771dc-17a5-4ea0-9fb3-9c21cb3620cb.png">[Java](https://www.java.com/pt-BR/)
