@@ -3,6 +3,8 @@
 <br>
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=E-Commerce&message=FarmaciaSolidaria&color=7159c1&style=for-the-badge&logo=ghost"/>
+  <br>
+ https://farmacia-solidaria.netlify.app
 </div>
 <br>
 <p align="center">Projeto de conclusão do Curso de Análise e Desenvolvimento de Sistemas, para a matéria de Laboratório de Projetos</p>
